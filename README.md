@@ -1,0 +1,2 @@
+# newsapp
+cordova phonegap newsapp
